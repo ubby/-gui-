@@ -1,0 +1,8 @@
+name: KickPlugin
+version: '${project.version}'
+main: kick.kickplugin.KickPlugin
+api-version: 1.16
+author: RurdCrod
+commands:
+  super_kill:
+    usage: "/super_kill"
